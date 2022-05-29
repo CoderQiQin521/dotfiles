@@ -1,6 +1,5 @@
 set number
 set nocompatible
-syntax on
 set t_Co=256
 set encoding=utf-8
 set cursorline cursorcolumn
