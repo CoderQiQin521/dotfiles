@@ -1,4 +1,4 @@
-'' 显示
+'' Display
 set number
 ''语法高亮
 set syntax=on
@@ -12,7 +12,7 @@ set textwidth=120
 set colorcolumn=80
 set wrap
 
-'' 缩进
+'' Indent
 set autoindent
 set smartindent
 set linebreak
@@ -22,7 +22,7 @@ set shiftwidth=4
 ''禁止使用制表符,使用空格
 set noexpandtab
 
-'' 编辑
+'' Edit
 ''禁止创建备份文件
 set nobackup
 ''禁止创建交换文件
@@ -36,7 +36,7 @@ set helplang=cn
 ''底部状态栏
 set laststatus=2
 
-'' 搜索
+'' Search
 ''高亮搜索内容
 set hlsearch
 
