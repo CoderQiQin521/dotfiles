@@ -1,4 +1,4 @@
-'' Display
+'' Display                                                                                                                                                                                                                                              
 set number
 ''语法高亮
 set syntax=on
@@ -40,8 +40,8 @@ set laststatus=2
 ''高亮搜索内容
 set hlsearch
 
-
 set background=dark
+
 colorscheme hybrid
 let g:hybrid_custom_term_colors = 1
 let g:hybrid_reduced_contrast = 1
