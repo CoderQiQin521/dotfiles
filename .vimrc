@@ -1,8 +1,8 @@
-'' Display                                                                                                                                                                                                                                              
+" Display                                                                                                                                                                                                                                              
 set number
-''语法高亮
+"语法高亮
 set syntax=on
-''不兼容vi
+"不兼容vi
 set nocompatible
 set showmode
 set t_Co=256
@@ -12,20 +12,20 @@ set textwidth=120
 set colorcolumn=80
 set wrap
 
-'' Indent
+" Indent
 set autoindent
 set smartindent
 set linebreak
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
-''禁止使用制表符,使用空格
+"禁止使用制表符,使用空格
 set noexpandtab
 
-'' Edit
-''禁止创建备份文件
+" Edit
+"禁止创建备份文件
 set nobackup
-''禁止创建交换文件
+"禁止创建交换文件
 set noswapfile
 
 set wildmenu
@@ -33,11 +33,11 @@ set ruler
 set showcmd
 set mouse+=a
 set helplang=cn
-''底部状态栏
+"底部状态栏
 set laststatus=2
 
-'' Search
-''高亮搜索内容
+" Search
+"高亮搜索内容
 set hlsearch
 
 set background=dark
